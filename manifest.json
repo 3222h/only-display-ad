@@ -9,4 +9,4 @@
       "matches": ["https://www.youtube.com/*"],
       "js": ["contentScript.js"]
     }
-  ]
+  
